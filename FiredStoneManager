@@ -1,3 +1,10 @@
+// File name: FiredStoneManager.cs
+// By: Dylan Greek
+//
+// Input: Uses two sets of 4 plane objects to detect which zone the player is in when hitting an object
+// Output: This script finds which zone the player is in, moves the fired stone in the forward facing direction
+// 
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

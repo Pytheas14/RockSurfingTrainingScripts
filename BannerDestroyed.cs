@@ -1,4 +1,11 @@
-﻿using System.Collections;
+// File name: BannerDestroyed.cs
+// By: Dylan Greek
+//
+// Input: None, run upon script activation
+// Output: This script tells the attached object (intended to be a target banner) to rotate on the x 
+// in the backwards directions for 1 second before destroying itself.
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
